@@ -7,7 +7,7 @@ spring:
    # driver-class-name: '${MEDILAB_MONOLITH_APP_DB_DRIVER:com.mysql.cj.jdbc.Driver}'
     url: jdbc:${MEDILAB_MONOLITH_APP_DB_TYPE:mysql}://${MEDILAB_MONOLITH_APP_DB_CONTAINER_NAME:msqldb.cuki7etdanyz.us-east-1.rds.amazonaws.com}:${MEDILAB_MONOLITH_APP_DB_PORT:3306}/${MEDILAB_MONOLITH_APP_DB:weshopifydb}
     username: '${MEDILAB_MONOLITH_APP_DB_PASSWORD:root}'
-    password: '${MEDILAB_MONOLITH_APP_DB_USER_NAME:Paramesh$51}'
+    password: '${MEDILAB_MONOLITH_APP_DB_USER_NAME:ramesh123}'
   h2:
     console:
       enabled: true
